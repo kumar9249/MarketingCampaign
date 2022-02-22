@@ -5,6 +5,7 @@ customer was recorded. Now, the company wants to use this
 data to see how the customers responded to their offer for a
 product or service to maximize the profit from the upcoming
 campaigns.
+
 Solution: I’ve performed a quality check on the data looking for
 any kind of inconsistencies like Missing or Incorrect values &
 Outliers. Then built a Power BI report to analyze various factors
